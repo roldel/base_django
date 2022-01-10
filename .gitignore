@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 Dockerfile
 docker-compose.yml
+data/

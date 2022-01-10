@@ -1,0 +1,3 @@
+Check env vars
+Adjust to connect django settings to docker-compose
+Trim postgres env var as pre need
